@@ -1,0 +1,10 @@
+# Derleme çıktıları ve geçici dosyalar
+build/
+out/
+*.hex
+*.elf
+*.o
+*.class
+*.log
+*.bak
+.DS_Store
